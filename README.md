@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @efrenrodas
 - 👀 I’m interested in develop of software
 - 🌱 I’m currently learning software engineering at utpl
-- 💞️ I’m looking to collaborate on javascript, php, ionic projects.
+- 💞️ I’m looking to collaborate on javascript, php, vuejs, react-native projects.
 - 📫 How to reach me whatsapp 0996413963
 
 <!---
